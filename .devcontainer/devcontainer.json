@@ -1,0 +1,11 @@
+{
+  "name": "USU-ITLS-x265 Starter",
+  "customizations": {
+    "extensions": [
+      "yandeu.five-server",
+      "davidanson.vscode-markdownlint",
+      "ecmel.vscode-html-css",
+      "dbaeumer.vscode-eslint"
+    ]
+  }
+}
