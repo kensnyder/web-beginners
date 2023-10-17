@@ -1,11 +1,19 @@
 {
-  "name": "USU-ITLS-x265 Starter",
+  "name": "web-beginners-starter",
   "customizations": {
     "extensions": [
       "yandeu.five-server",
       "davidanson.vscode-markdownlint",
       "ecmel.vscode-html-css",
-      "dbaeumer.vscode-eslint"
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "streetsidesoftware.code-spell-checker",
+      "github.copilot",
+      "github.copilot-chat",
+      "formulahendry.auto-rename-tag",
+      "pranaygp.vscode-css-peek",
+      "wayou.vscode-todo-highlight",
+      "yzhang.markdown-all-in-one"
     ]
   }
 }

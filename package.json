@@ -1,0 +1,15 @@
+{
+  "name": "project-name-here",
+  "version": "0.0.0",
+  "description": "Enter your project description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "prettier": "^3.0.3"
+  }
+}
