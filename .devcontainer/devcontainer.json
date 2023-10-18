@@ -6,7 +6,7 @@
     },
     "vscode": {
       "extensions": [
-        "yandeu.five-server",
+        "ritwickdey.liveserver",
         "davidanson.vscode-markdownlint",
         "ecmel.vscode-html-css",
         "dbaeumer.vscode-eslint",
